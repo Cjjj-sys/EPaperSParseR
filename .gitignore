@@ -1,0 +1,16 @@
+#Blazor Server App
+*.log
+*.vs/
+*.suo
+*.user
+*.bak
+*.cache
+*.tmp
+*.dbmdl
+bin/
+obj/
+Debug/
+Release/
+_ReSharper*/
+[Tt]humbs.db
+Desktop.ini
